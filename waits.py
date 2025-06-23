@@ -50,6 +50,3 @@ Login.click()
 
 
 time.sleep(20)
-
-
-print("changes")
