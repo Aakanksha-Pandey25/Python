@@ -17,3 +17,4 @@ action.context_click(right_click_btn).perform()
 
 
 time.sleep(10)
+print("completed")
